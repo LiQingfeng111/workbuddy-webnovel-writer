@@ -1,0 +1,18 @@
+{
+  "format_version": 1,
+  "last_finalized_chapter": 1,
+  "current_chapter": 2,
+  "stage": "上一章已定稿",
+  "finalized_files": 1,
+  "total_han": 316,
+  "pending_draft_chapters": [],
+  "unresolved_foreshadows": 1,
+  "next_outline_ready": true,
+  "updated": "2026-11-11 22:55:03",
+  "note": "派生缓存，冲突时以文件为准，可用 rebuild 重建",
+  "last_settle": {
+    "chapter": 1,
+    "confirm": "示例演示：作者确认通过",
+    "at": "2026-11-11 22:55:03"
+  }
+}
